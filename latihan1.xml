@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<data_mahasiswa>
+	<mhs kategori="KOMSI">
+		<nama>Arifatul Faizah</nama>
+		<nim>04067</nim>
+		<alamat>Semarang</alamat>
+	</mhs>
+	<mhs kategori="ELINS">
+		<nama>Ainun Salis Utami</nama>
+		<nim>02994</nim>
+		<alamat>Cirebon</alamat>
+	</mhs>
+	<mhs kategori="REKMED">
+		<nama>Annisa Nur Fitriana</nama>
+		<nim>03234</nim>
+		<alamat>Cilegon</alamat>
+	</mhs>
+</data_mahasiswa>
